@@ -53,3 +53,12 @@ The experiments use selected tasks and texts. Findings should be interpreted wit
 Author
 
 Sofiya Iadkouskaya
+
+## Results
+
+| Model | Task | Language | Metric | Result |
+|---|---|---|---|---|
+| Bielik | Summarization | Polish | — | — |
+| Qwen | Summarization | Polish | — | — |
+| Bielik | Numerical reasoning | Polish | Accuracy (%) | — |
+| Qwen | Numerical reasoning | Polish | Accuracy (%) | — |
